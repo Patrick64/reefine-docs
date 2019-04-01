@@ -1,0 +1,38 @@
+This license is a legal agreement between you and Patrick Woodcock. for the use of Patrick Woodcock Software. By downloading the software, you agree to be bound by the terms and conditions of this license. Patrick Woodcock reserves the right to alter this agreement at any time, for any reason, without notice.
+
+Reefine: Permitted Use
+A purchased license is required for each installation of the software. One (1) license grants the right to perform one (1) installation. Each additional installation of this software requires an additional purchased license. Software designated as free or by donation is exempt from the Commercial License restrictions.
+
+Codee: Permitted Use
+Codee is a per seat license so each license grants the user the right to perform an unlimited number of installations for use by one developer. For example if your company has one person editing templates with Codee then you only need to buy one license, if your company has two developers editing templates you will need two licenses. Codee licenses are perpetual. Once you buy a license to a specific version, and as long as you abide by the license agreement, you can use that version forever with no additional cost. The license grants you the right to download and upgrade to the latest version of Codee for one year.
+
+Restrictions
+Unless you have been granted prior, written consent from Patrick Woodcock, you may not:
+
+Reproduce, distribute, or transfer the software, or portions thereof, to any third party.
+Sell, rent, lease, assign, or sublet the software, or portions thereof.
+Grant rights to any other person.
+Use this software in violation of any UK or international law or regulation.
+Display of Copyright Notices
+All copyright and proprietary notices and logos in the Control Panel and within the software or scripts must remain intact.
+
+Making Copies and Duplication of Software
+You may make copies of the Software for back-up purposes, provided that you reproduce the Software in its original form and with all proprietary notices on the back-up copy.
+
+Software Modification
+You may alter, modify, or extend the software for your own use, or commission a third-party to perform modifications for you, but you may not resell, redistribute or transfer the modified or derivative version without prior written consent from Patrick Woodcock. Components from this software may not be extracted and used in other programs without prior written consent from Patrick Woodcock.
+
+Technical Support
+Technical support is available only through Patrick Woodcock. Support is primarily offered through email, and Patrick Woodcock does not provide telephone support. No representations or guarantees are made regarding the response time in which support questions are answered.
+
+Refunds
+Patrick Woodcock offers refunds on software within 30 days of purchase. Please email support to request a refund.
+
+Indemnity
+You agree to indemnify and hold harmless Patrick Woodcock for any third-party claims, actions or suits, as well as any related expenses, liabilities, damages, settlements or fees arising from your use or misuse of the software, or a violation of any terms of this license.
+
+Disclaimer Of Warranty
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF QUALITY, PERFORMANCE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. FURTHER, Patrick Woodcock DOES NOT WARRANT THAT THE SOFTWARE OR ANY RELATED SERVICE WILL ALWAYS BE AVAILABLE.
+
+Limitations Of Liability
+YOU ASSUME ALL RISK ASSOCIATED WITH THE INSTALLATION AND USE OF THE SOFTWARE. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS OF THE SOFTWARE BE LIABLE FOR CLAIMS, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE. LICENSE HOLDERS ARE SOLELY RESPONSIBLE FOR DETERMINING THE APPROPRIATENESS OF USE AND ASSUME ALL RISKS ASSOCIATED WITH ITS USE, INCLUDING BUT NOT LIMITED TO THE RISKS OF PROGRAM ERRORS, DAMAGE TO EQUIPMENT, LOSS OF DATA OR SOFTWARE PROGRAMS, OR UNAVAILABILITY OR INTERRUPTION OF OPERATIONS.
